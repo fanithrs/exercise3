@@ -1,0 +1,16 @@
+.col{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.form-control{
+	text-align: center;
+}
+
+td, th{
+	text-align: center;
+}
+
+body{
+	background-color: #f9fffe;
+}
